@@ -1,0 +1,14 @@
+2019-05-09 12:35:46,931 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-09 12:36:12,566 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Core Java\Day2Assignment\Forex\spring-boot-microservice-forex-service\pom.xml.
+2019-05-09 12:36:12,738 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Core Java\Day2Assignment\Forex\spring-boot-microservice-forex-service\pom.xml.
+2019-05-09 12:36:16,435 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-09 12:36:16,441 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-09 12:36:16,460 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-09 12:36:16,513 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-09 12:36:16,513 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Core Java\Day2Assignment\Forex\spring-boot-microservice-forex-service\src\test\resources
+2019-05-09 12:36:18,812 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:spring-boot-microservice-forex-service:0.0.1-SNAPSHOT @ C:\Core Java\Day2Assignment\Forex\spring-boot-microservice-forex-service\pom.xml.
+2019-05-09 12:36:21,770 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-09 12:36:21,777 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-09 12:36:21,793 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-09 12:36:21,801 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-09 12:36:21,801 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Core Java\Day2Assignment\Forex\spring-boot-microservice-forex-service\src\test\resources
